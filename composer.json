@@ -1,7 +1,7 @@
 {
-    "name": "twillio/twillio",
+    "name": "twilio/twilio-php",
     "type": "library",
-    "description": "Php twillio library",
+    "description": "Php twilio library",
     "keywords": ["twillio","phone"],
     "homepage": "https://github.com/twilio/twilio-php",
     "license": "MIT",
