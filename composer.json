@@ -2,7 +2,7 @@
     "name": "twilio/twilio-php",
     "type": "library",
     "description": "Php twilio library",
-    "keywords": ["twillio","phone"],
+    "keywords": ["twilio","phone"],
     "homepage": "https://github.com/twilio/twilio-php",
     "license": "MIT",
     "authors": [
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Twillio": "vendor"
+            "Twillio": "Services"
         }
     }
 }
